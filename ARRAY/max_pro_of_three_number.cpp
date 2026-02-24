@@ -13,6 +13,10 @@ approch : product of three number in sorted array
           product2 = nums[n-1]*nums[n-2]*nums[n-3]  when array contains larger positive values
           -> above product is (larger*larger*larger)
           and returning the max of avbove two products;
+
+time complexity = O(nlogn);
+
+date : 24/02/2026
 */
 
 
