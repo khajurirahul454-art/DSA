@@ -3,8 +3,8 @@
 using namespace std;
 
 /*
-problem = assign cookies (leetcode 455)
-level = easy 
+problem = maximum matching player with trainer (leetcode 2410)
+level = medium
 
 approch = firstly sorted the both the vectors to compaire them easily 
           when they given codition trainers[j]>=players[i] i counted no of times the codition 
