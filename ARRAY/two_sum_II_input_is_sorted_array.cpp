@@ -12,7 +12,7 @@ approch = to solve this problem i used the binary search pattern and
           satisfies the condition nums[i]+nums[j]==target
           ->finally i returned the vector
 
-time complexity = O(logn)
+time complexity = O(n)
 space complexity = O(1)
 
 date = 14/03/2026
